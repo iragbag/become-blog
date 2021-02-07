@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Being Becoming`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Raghav Sharma`,
+      summary: `Learning how to run while standing still`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A blog to help find a better balance between being who you are and becoming what you want to be`,
+    siteUrl: `bebecome.me`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `BeBecomeMe`,
     },
   },
   plugins: [
@@ -53,7 +53,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `G-P78N436FEV`,
       },
     },
     `gatsby-plugin-feed`,
