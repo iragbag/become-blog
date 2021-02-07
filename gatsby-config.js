@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Being Becoming`,
+    title: `Be/Become Me`,
     author: {
       name: `Raghav Sharma`,
       summary: `Learning how to run while standing still`,
@@ -8,7 +8,7 @@ module.exports = {
     description: `A blog to help find a better balance between being who you are and becoming what you want to be`,
     siteUrl: `bebecome.me`,
     social: {
-      twitter: `BeBecomeMe`,
+      twitter: `BeBecomeMe`
     },
   },
   plugins: [
