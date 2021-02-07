@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Be/Become Me`,
+    title: `<Be/Become>`,
     author: {
       name: `Raghav Sharma`,
       summary: `Learning how to run while standing still`,
